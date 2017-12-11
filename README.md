@@ -1,1 +1,6 @@
-# INFO6205_22
+# Genetic Algorithm – Optimization Of Drug Development Process
+
+# Basic Idea
+
+
+

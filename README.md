@@ -1,7 +1,11 @@
 # Genetic Algorithm – Optimization Of Drug Development Process
 
+						By- Shubham Patel
+
+
 
 # Basic Idea--
+
 Development of  a new drug depends on some factors of Pharmacokietics :-
 1) Liberation
 2) Dissolution
